@@ -12,6 +12,7 @@ module.exports = {
   themeConfig: {
     logo: "/imgs/favicon.ico",
     lastUpdated: '最后更新时间', // string | boolean
+    contributors: false,
     // 默认是 false, 设置为 true 来启用
     editLinks: true,
     // 默认为 "Edit this page"
